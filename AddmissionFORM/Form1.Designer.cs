@@ -110,7 +110,7 @@ namespace AddmissionFORM
             // 
             // textBox4
             // 
-            this.textBox4.Location = new System.Drawing.Point(160, 186);
+            this.textBox4.Location = new System.Drawing.Point(169, 186);
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(150, 20);
             this.textBox4.TabIndex = 7;
